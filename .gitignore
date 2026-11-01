@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Data and outputs
+data/
+outputs/
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.pkl
+*.joblib
